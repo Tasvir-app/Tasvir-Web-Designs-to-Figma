@@ -34,11 +34,11 @@ No plugin, no export file, no import dialog.
 <table>
   <tr>
     <td align="center" width="50%"><a href="https://app.tasvir.ai/c/8c58ee95cc671e33f40d1fd3dbfc94b4fb19cb46344286ab3c9c19acb3fc1782/1"><img src="assets/page-home.webp" width="420" alt="Home screen"/></a><br/><strong>Home</strong><br/><sub>featured stream, followed channels, live grid</sub></td>
-    <td align="center" width="50%"><a href="https://app.tasvir.ai/c/8c58ee95cc671e33f40d1fd3dbfc94b4fb19cb46344286ab3c9c19acb3fc1782/1"><img src="assets/page-categories.webp" width="420" alt="Categories screen"/></a><br/><strong>Categories</strong><br/><sub>filters, pinned categories, 24-hour trends</sub></td>
+    <td align="center" width="50%"><a href="https://app.tasvir.ai/c/8c58ee95cc671e33f40d1fd3dbfc94b4fb19cb46344286ab3c9c19acb3fc1782/2"><img src="assets/page-categories.webp" width="420" alt="Categories screen"/></a><br/><strong>Categories</strong><br/><sub>filters, pinned categories, 24-hour trends</sub></td>
   </tr>
   <tr>
-    <td align="center" width="50%"><a href="https://app.tasvir.ai/c/8c58ee95cc671e33f40d1fd3dbfc94b4fb19cb46344286ab3c9c19acb3fc1782/1"><img src="assets/page-live.webp" width="420" alt="Live stream screen"/></a><br/><strong>Watch page</strong><br/><sub>player, live chat, follow and subscribe</sub></td>
-    <td align="center" width="50%"><a href="https://app.tasvir.ai/c/8c58ee95cc671e33f40d1fd3dbfc94b4fb19cb46344286ab3c9c19acb3fc1782/1"><img src="assets/page-setup.webp" width="420" alt="Stream setup wizard screen"/></a><br/><strong>Setup wizard</strong><br/><sub>stream key, server, audio check</sub></td>
+    <td align="center" width="50%"><a href="https://app.tasvir.ai/c/8c58ee95cc671e33f40d1fd3dbfc94b4fb19cb46344286ab3c9c19acb3fc1782/3"><img src="assets/page-live.webp" width="420" alt="Live stream screen"/></a><br/><strong>Watch page</strong><br/><sub>player, live chat, follow and subscribe</sub></td>
+    <td align="center" width="50%"><a href="https://app.tasvir.ai/c/8c58ee95cc671e33f40d1fd3dbfc94b4fb19cb46344286ab3c9c19acb3fc1782/6"><img src="assets/page-setup.webp" width="420" alt="Stream setup wizard screen"/></a><br/><strong>Setup wizard</strong><br/><sub>stream key, server, audio check</sub></td>
   </tr>
 </table>
 
